@@ -61,14 +61,14 @@ $ tree NOM1_NOM2_NOM3/
 └── users-database.*    <- votre base de données
 ```
 
-À envoyer à l'adresse : [benefit_callow_01@icloud.com](mailto:benefit_callow_01@icloud.com)
+À envoyer à l'adresse : [depotprojet@skavi.fr](mailto:depotprojet@skavi.fr)
 
 ## Aide
 
 Google est votre ami ([ou pas](https://www.zdnet.com/finance/google-is-not-your-friend/)).
-Sinon vous pouvez également consulter le [wiki](https://github.com/nikaro/assr-python-projet/wiki)
+Sinon vous pouvez également consulter le [wiki](https://github.com/ceytho/assr-python-projet/wiki)
 pour quelques astuces.
 
 En cas de blocage, posez vos questions dans
-[l'espace de discussions](https://github.com/nikaro/assr-python-projet/discussions)
+[l'espace de discussions](https://github.com/ceytho/assr-python-projet/discussions)
 afin que chacun puisse participer et que ça puisse profiter à tous.
