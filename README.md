@@ -61,7 +61,7 @@ $ tree NOM1_NOM2_NOM3/
 └── users-database.*    <- votre base de données
 ```
 
-À envoyer à l'adresse : [depotprojet@skavi.fr](mailto:depotprojet@skavi.fr)
+À envoyer à l'adresse : [assrdepotpython@outlook.fr](mailto:assrdepotpython@outlook.fr)
 
 ## Aide
 
